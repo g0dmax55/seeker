@@ -10,7 +10,7 @@
   <span> - </span>
   <a href="https://t.me/hackwithvyshu"><b>Telegram</b></a>
   <span> - </span>
-  <a href="https://github.com/keralahacker"><b>thewhiteh4t's Blog</b></a>
+  <a href="https://github.com/keralahacker"><b>HACK with VYSHU Blog</b></a>
 </p>
 
 <p align="center">
