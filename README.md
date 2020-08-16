@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/thewhiteh4t"><b>Twitter</b></a>
+  <a href="https://www.instagram.com/hack_with_vyshu"><b>Instagram</b></a>
   <span> - </span>
-  <a href="https://t.me/thewhiteh4t"><b>Telegram</b></a>
+  <a href="https://t.me/hackwithvyshu"><b>Telegram</b></a>
   <span> - </span>
-  <a href="https://thewhiteh4t.github.io"><b>thewhiteh4t's Blog</b></a>
+  <a href="https://github.com/keralahacker"><b>thewhiteh4t's Blog</b></a>
 </p>
 
 <p align="center">
@@ -76,28 +76,17 @@ You can choose a template which will be used by seeker from these :
 ### Kali Linux / Ubuntu / Parrot OS
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
+git clone https://github.com/keralahacker/seeker
 cd seeker/
 chmod 777 install.sh
 ./install.sh
 ```
 
-### BlackArch Linux
-
-```bash
-pacman -S seeker
-```
-
-### Docker
-
-```bash
-docker pull thewhiteh4t/seeker
-```
 
 ### Termux
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
+git clone https://github.com/keralahacker/seeker
 cd seeker/
 chmod 777 termux_install.sh
 ./termux_install.sh
@@ -168,8 +157,8 @@ docker run --rm -t --net ngroknet --name ngrok wernight/ngrok ngrok http seeker:
 
 | Demo | Link |
 |-|-|
-| WhatsApp Template Demo | https://www.youtube.com/watch?v=dG0HkQmF4-A |
-| What's new in v1.1.9 | https://www.youtube.com/watch?v=FEyAPjkJFrk |
-| First Version | https://www.youtube.com/watch?v=ggUGPq4cjSM |
+| instagram| https://www.instagram.com/hack_with_vyshu |
+| video  | https://www.youtube.com/watch?v=8DXf5Jy-418 |
+| Youtube | https://www.youtube.com/c/HACKwithVYSHU/about |
 
 
